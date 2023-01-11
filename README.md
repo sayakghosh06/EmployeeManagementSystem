@@ -9,6 +9,9 @@
 • Tech Used- Python Django, Bootstrap, SqlLite,Html
 
 
+https://user-images.githubusercontent.com/111970636/211879653-ba31981b-5a5b-460e-8704-136ea21d20e8.mp4
+
+
 
 ![image](https://user-images.githubusercontent.com/111970636/205283724-81c2cce5-e77e-4396-91bf-b450c751dce0.png)
 
@@ -19,3 +22,8 @@
 ![image](https://user-images.githubusercontent.com/111970636/205283943-861d54ac-401d-43f3-9718-56578bdf6a54.png)
 
 ![image](https://user-images.githubusercontent.com/111970636/205284065-ed25b7f3-ba3d-44e4-ae8c-d93151447373.png)
+
+
+
+
+
